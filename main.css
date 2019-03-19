@@ -1,8 +1,10 @@
 html{
     background: royalblue;
+    /* background: red; */
 }
 h1{
     color: red;
+    /* color: white; */
     font-size: 2em;
     font-style: oblique;
 }
